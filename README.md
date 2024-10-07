@@ -27,7 +27,7 @@ Click Install to add the library to your project.
 Alternatively, you can use Emgu.CV for .NET.
 
 - Git installed in your system
-- 
+  
 Steps to install Git:
 Go to the official Git website.
 Download the appropriate version for your operating system.
