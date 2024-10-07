@@ -19,12 +19,16 @@ git clone https://github.com/jasferdelacruz/FISTML.git
 ## Making Changes and Pull Requests
 To contribute to this project:
 
-Create a new branch for your changes:
+1 Create a new branch for your changes:
+
 git checkout -b feature-branch-name ## for example: login authentication-DelaCruz
-Make your changes and commit them:
+
+2 Make your changes and commit them:
 
 git add .
 git commit -m "Description of changes"
-Push the changes to your GitHub repository:
+
+3 Push the changes to your GitHub repository:
+
 git push origin feature-branch-name
 Open a Pull Request from your forked repository.
